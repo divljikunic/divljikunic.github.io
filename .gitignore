@@ -9,6 +9,9 @@
 .*
 ~*
 
+# except .nojekyll
+!.nojekyll
+
 # ignore node/grunt dependency directories
 node_modules/
 
