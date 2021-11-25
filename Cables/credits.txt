@@ -1,0 +1,7 @@
+- ops by cables user pandur (https://cables.gl/user/pandur)
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+- Domain Warping Shader by inigo quilez (http://iquilezles.org/www/articles/warp/warp.htm)
+- Voronoise Shader by Patricio Gonzalez Vivo & Jen Lowe (https://thebookofshaders.com/12/)
+- ops by cables user stephan (https://cables.gl/user/stephan)
+- cables by undefined development (http://undev.studio)
+- glmatrix by toji (https://github.com/toji/gl-matrix)
